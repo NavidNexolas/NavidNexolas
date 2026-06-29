@@ -34,8 +34,8 @@ Backend Developer specializing in PHP, Laravel, and enterprise systems. I build 
 
 ## 🚀 Experience
 
-**Arasb Pishtar Co.** — Backend Developer *(2023 – Present)*
-> ERP system development for Arasb Pishtar, Arasb Diesel, Mamut Factory, Kaveh Steel, Kabir Steel, and Mihan.
+**Arasb Pishtaz Co.** — Backend Developer *(2023 – Present)*
+> ERP system development for Arasb Pishtaz, Arasb Diesel, Mamut Factory, Kaveh Steel, Kabir Steel, and Mihan.
 
 **Negarine Tose'e Co.** — Backend Developer *(2022 – 2023)*
 > Backend and admin panel for 4 mobile startups: Titraj, Neganon, NegaMarket, NegaPic.
