@@ -1,4 +1,4 @@
-# Hi, I'm Navid Soltani 👋
+# Hi, I'm Navid Nexolas 👋
 
 <div align="center">
   <img src="READMEIMAGE.png" width="500"/>
