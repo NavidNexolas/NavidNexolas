@@ -1,7 +1,7 @@
 # Hi, I'm Navid Soltani 👋
 
 Backend Developer specializing in PHP, Laravel, and enterprise systems. I build reliable APIs, admin panels, and ERP solutions that power real businesses.
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Backend+Developer;ERP+Systems+Engineer;Laravel+Specialist;API+Architect;Admin+Panel+Developer)
 ---
 
 ## 🛠 Tech Stack
